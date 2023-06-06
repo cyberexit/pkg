@@ -30,4 +30,4 @@ apt install git -y
 
 pip install telepot 
 
-git clone https://github.com/cyberexit/Ip-Tracker
+git clone https://github.com/cyberexit/pkg
