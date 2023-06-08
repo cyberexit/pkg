@@ -30,6 +30,8 @@ apt install git -y
 
 pip install telepot 
 
+pip install requests
+
 git clone https://github.com/cyberexit/pkg
 
 cd pkg
