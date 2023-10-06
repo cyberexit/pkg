@@ -36,4 +36,4 @@ git clone https://github.com/cyberexit/pkg
 
 cd pkg
 
-python pkg.py
+python tanu.py
